@@ -4,7 +4,6 @@
 
 ### 💫 About Me
 - 🔭 Currently working on  Multi-threaded Game Server Simulator
-- 🌱 Learning Core C++ Technologies
 - 📫 Reach me at: calvinlevron2@gmail.com
 
 ### 🛠️ Languages and Tools
