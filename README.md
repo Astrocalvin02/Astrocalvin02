@@ -37,12 +37,15 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
-</div>
 <div align="center">
+
+## 📊 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
 class GameServer {
 private:
     std::vector<std::thread> workerThreads;
