@@ -6,6 +6,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
 </div>
 
+<!-- Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
 ## 🚀 Crafting Code That Matters
 
 ### 💫 About Me
