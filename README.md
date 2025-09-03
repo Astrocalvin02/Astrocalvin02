@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/Akshay090/readme-template/main/code.gif" width="400"/>
 </div>
 
 
