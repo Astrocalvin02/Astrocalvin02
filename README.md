@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+I'm+Your+Name!;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+I'm+Astro+calvin+F!;Always+learning+new+things" alt="Typing SVG" />
 </div>
-# Hey there 👋, I'm Astro calvin F
+
+<div align="center">
+  <img src="https://your-animated-gif-url.gif" alt="Animated Introduction" width="600"/>
+</div>
 
 ## 🚀 Crafting Code That Matters
 
