@@ -6,8 +6,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
+
 
 
 <div align="center">
