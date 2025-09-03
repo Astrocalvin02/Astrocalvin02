@@ -1,7 +1,7 @@
 <!-- Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 <div align="center">
-👋 Welcome to My Digital Universe!
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hello%2C+I'm+Astro+Calvin+F!;Game+Developer+%26+Code+Enthusiast;Always+learning+new+things;Building+the+future+one+line+at+a+time!" alt="Typing SVG" />
 </div>
 
@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
 </div>
 
-💫 About Me
+
 <table>
 <tr>
 <td>
