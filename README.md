@@ -56,6 +56,8 @@ Game Architecture 🎮
 
 </div>
 
+![Snake animation](https://github.com/Astrocalvin02/Astrocalvin02/blob/output/github-contribution-grid-snake.svg)
+
 class GameServer {
 private:
     std::vector<std::thread> workerThreads;
