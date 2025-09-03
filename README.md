@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://your-animated-gif-url.gif" alt="Animated Introduction" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600"/>
 </div>
 
 ## 🚀 Crafting Code That Matters
