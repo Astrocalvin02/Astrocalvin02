@@ -9,6 +9,38 @@
 </div>
 <div align="center">
 
+<table>
+<tr>
+<td>
+🔭 Currently Working On
+Multi-threaded Game Server Simulator
+🌱 Passionate About
+
+System Programming & Game Development
+Performance Optimization
+Real-time Systems
+
+</td>
+<td>
+🎯 2024 Goals
+
+🏆 Master advanced algorithms
+⚡ Build lightning-fast servers
+🌟 Contribute to open-source
+
+💬 Ask Me About
+
+C++ Magic ✨
+Python Wizardry 🐍
+Game Architecture 🎮
+
+</td>
+</tr>
+</table>
+<div align="center">
+📫 Reach me at: calvinlevron2@gmail.com
+⚡ Fun Fact: I debug faster than I can make coffee! ☕️ → 🐛
+</div>
 
 ### 🛠️ Languages and Tools Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
