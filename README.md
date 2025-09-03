@@ -11,25 +11,38 @@
 
 
 
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+class AstroCalvin {
+private:
+    string currentProject = "Multi-threaded Game Server Simulator";
+    vector<string> passions = {"System Programming", "Game Development"};
+    string email = "calvinlevron2@gmail.com";
+    
+public:
+    void introduce() {
+        cout << "🚀 Welcome to my code universe!" << endl;
+    }
+    
+    vector<string> getCurrentGoals() {
+        return {
+            "🎯 Master advanced algorithms & data structures",
+            "⚡ Build lightning-fast game servers", 
+            "🌟 Contribute to open-source projects"
+        };
+    }
+    
+    string getFunFact() {
+        return "I debug faster than I can make coffee! ☕️→🐛";
+    }
+    
+    void askMeAbout() {
+        cout << "💬 C++ magic, Python wizardry, Game Architecture!" << endl;
+    }
+};
 
-### 💫 About Me
-🔭 Currently working on
-   Multi-threaded Game Server Simulator
-
-🌱 Passionate about
-   System Programming & Game Development
-
-🎯 Goals for 2024
-   Master advanced algorithms & data structures
-
-💬 Ask me about
-   C++, Python, Game Architecture
-
-📫 Reach me at
-   calvinlevron2@gmail.com
-
-⚡ Fun fact
-   I debug faster than I can coffee!
+// Currently compiling dreams into reality...
+AstroCalvin dev;
+dev.introduce();
 
 
 ### 🛠️ Languages and Tools Learning
