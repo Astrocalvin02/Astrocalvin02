@@ -10,41 +10,6 @@
 <div align="center">
 
 
-
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-class AstroCalvin {
-private:
-    string currentProject = "Multi-threaded Game Server Simulator";
-    vector<string> passions = {"System Programming", "Game Development"};
-    string email = "calvinlevron2@gmail.com";
-    
-public:
-    void introduce() {
-        cout << "🚀 Welcome to my code universe!" << endl;
-    }
-    
-    vector<string> getCurrentGoals() {
-        return {
-            "🎯 Master advanced algorithms & data structures",
-            "⚡ Build lightning-fast game servers", 
-            "🌟 Contribute to open-source projects"
-        };
-    }
-    
-    string getFunFact() {
-        return "I debug faster than I can make coffee! ☕️→🐛";
-    }
-    
-    void askMeAbout() {
-        cout << "💬 C++ magic, Python wizardry, Game Architecture!" << endl;
-    }
-};
-
-// Currently compiling dreams into reality...
-AstroCalvin dev;
-dev.introduce();
-
-
 ### 🛠️ Languages and Tools Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
