@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hello%2C+I'm+Astro+Calvin+F!;Game+Developer+%26+Code+Enthusiast;Always+learning+new+things;Building+the+future+one+line+at+a+time!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/readme-template/main/code.gif" width="400"/>
-</div>
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
 
 
 
