@@ -139,5 +139,6 @@
 </div>
 
 ---
-
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=120&section=footer"/>
 
