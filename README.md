@@ -1,7 +1,7 @@
 <!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F54EA2,100:FF7676&height=120&section=header"/>
 
-<h1 align="center">Hey there 👋, I'm Aishwarya SR</h1>
+<h1 align="center">Hey there 👋, Astro calvin F</h1>
 <h3 align="center">⚙️ Game Developer | System Programming Enthusiast | Tech Explorer 🚀</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hello%2C+I'm+Aishwarya+SR!;Game+Developer+%26+System+Programmer;Exploring+Tech+%26+Innovation;Building+the+future+one+line+at+a+time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hello%2C+I'm+Astro+calvin!;Game+Developer+%26+System+Programmer;Exploring+Tech+%26+Innovation;Building+the+future+one+line+at+a+time!" alt="Typing SVG" />
 </div>
 
 <!-- Coding GIF -->
@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryasuriyakumar&theme=radical&hide_border=true&background=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=aishwaryasuriyakumar&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryasuriyakumar&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrocalvin02&theme=radical&hide_border=true&background=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
 
 </div>
 
@@ -95,7 +95,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aishwaryasuriyakumar&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=radical&no-frame=true&margin-w=10&row=1" />
 </div>
 
 ---
@@ -103,7 +103,7 @@
 ## 🔧 Contribution Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryasuriyakumar&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astrocalvin02&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -122,8 +122,8 @@
 ## 📊 GitHub Stats (Extended)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aishwaryasuriyakumar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryasuriyakumar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-📫 **Reach Me At:** [aishwaryasuriyakumar25@gmail.com](mailto:aishwaryasuriyakumar25@gmail.com)  
+📫 **Reach Me At:** [calvinlevron2@gmail.com](mailto:calvinlevron2@gmail.com)  
 🌐 **Portfolio:** *Coming Soon...*  
 ⚡ **Fun Fact:** I debug faster than I make coffee ☕️ → 🐛  
 
@@ -140,15 +140,4 @@
 
 ---
 
-## 📆 My Developer Journey
 
-<div align="center">
-
-```mermaid
-graph TD;
-A[Started Coding 🧠] --> B[Mastered C/C++ ⚙️];
-B --> C[Built Game Prototypes 🎮];
-C --> D[Learned Python & Java 🚀];
-D --> E[Developed Game Server Simulator 🔧];
-E --> F[Optimizing Performance 🧩];
-F --> G[Contributing to Open Source 🌍];
