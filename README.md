@@ -1,66 +1,154 @@
-<!-- Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-<div align="center">
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F54EA2,100:FF7676&height=120&section=header"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hello%2C+I'm+Astro+Calvin+F!;Game+Developer+%26+Code+Enthusiast;Always+learning+new+things;Building+the+future+one+line+at+a+time!" alt="Typing SVG" />
+<h1 align="center">Hey there 👋, I'm Aishwarya SR</h1>
+<h3 align="center">⚙️ Game Developer | System Programming Enthusiast | Tech Explorer 🚀</h3>
+
+<p align="center">
+  <em>“Turning ideas into immersive realities — one line of code at a time.”</em>
+</p>
+
+---
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hello%2C+I'm+Aishwarya+SR!;Game+Developer+%26+System+Programmer;Exploring+Tech+%26+Innovation;Building+the+future+one+line+at+a+time!" alt="Typing SVG" />
 </div>
 
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
-
-
-
+<!-- Coding GIF -->
 <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
+</div>
 
-<table>
+---
+
+## 🧩 About Me
+
+<table align="center">
 <tr>
 <td>
-🔭 Currently Working On
-Multi-threaded Game Server Simulator
-🌱 Passionate About
 
-System Programming & Game Development
-Performance Optimization
-Real-time Systems
+🔭 **Currently Working On**  
+- Multi-threaded Game Server Simulator  
+
+🌱 **Passionate About**  
+- System Programming & Game Development  
+- Performance Optimization  
+- Real-time Systems  
 
 </td>
 <td>
-🎯 2024 Goals
 
-🏆 Master advanced algorithms
-⚡ Build lightning-fast servers
-🌟 Contribute to open-source
+🎯 **2025 Goals**  
+- 🏆 Master Advanced Algorithms  
+- ⚡ Build Lightning-fast Servers  
+- 🌟 Contribute to Open Source  
 
-💬 Ask Me About
-
-C++ Magic ✨
-Python Wizardry 🐍
-Game Architecture 🎮
+💬 **Ask Me About**  
+- C++ Magic ✨  
+- Python Wizardry 🐍  
+- Game Architecture 🎮  
 
 </td>
 </tr>
 </table>
-<div align="center">
-📫 Reach me at: calvinlevron2@gmail.com
-⚡ Fun Fact: I debug faster than I can make coffee! ☕️ → 🐛
-</div>
 
-### 🛠️ Languages and Tools Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VScode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+---
+
+## 🧠 Skills & Tech Stack
+
 <div align="center">
 
-## 📊 GitHub Statistics
+### 🎮 Game & System Development  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true"/>
+### 🧩 Frameworks & Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🖥️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-<!-- Bottom Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+---
+
+## 📈 GitHub Stats Overview
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryasuriyakumar&theme=radical&hide_border=true&background=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aishwaryasuriyakumar&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryasuriyakumar&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aishwaryasuriyakumar&theme=radical&no-frame=true&margin-w=10&row=1" />
+</div>
+
+---
+
+## 🔧 Contribution Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryasuriyakumar&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🚀 My Current Focus
+
+| Area | Description |
+|------|--------------|
+| 🎯 **Project** | Multi-threaded Game Server Simulator |
+| 🧠 **Learning** | Low-level Memory Management & Optimization |
+| 💡 **Goal** | Build High-performance Systems & Engines |
+| ☕ **Fun Fact** | I debug faster than I brew coffee 🐛☕ |
+
+---
+
+## 📊 GitHub Stats (Extended)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aishwaryasuriyakumar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryasuriyakumar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+📫 **Reach Me At:** [aishwaryasuriyakumar25@gmail.com](mailto:aishwaryasuriyakumar25@gmail.com)  
+🌐 **Portfolio:** *Coming Soon...*  
+⚡ **Fun Fact:** I debug faster than I make coffee ☕️ → 🐛  
+
+</div>
+
+---
+
+## 📆 My Developer Journey
+
+<div align="center">
+
+```mermaid
+graph TD;
+A[Started Coding 🧠] --> B[Mastered C/C++ ⚙️];
+B --> C[Built Game Prototypes 🎮];
+C --> D[Learned Python & Java 🚀];
+D --> E[Developed Game Server Simulator 🔧];
+E --> F[Optimizing Performance 🧩];
+F --> G[Contributing to Open Source 🌍];
