@@ -108,34 +108,13 @@
 
 ---
 
-## 🚀 My Current Focus
-
-| Area | Description |
-|------|--------------|
-| 🎯 **Project** | Multi-threaded Game Server Simulator |
-| 🧠 **Learning** | Low-level Memory Management & Optimization |
-| 💡 **Goal** | Build High-performance Systems & Engines |
-| ☕ **Fun Fact** | I debug faster than I brew coffee 🐛☕ |
-
----
-
-## 📊 GitHub Stats (Extended)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
-
----
 
 ## 📬 Connect With Me
 
 <div align="center">
 
-📫 **Reach Me At:** [calvinlevron2@gmail.com](mailto:calvinlevron2@gmail.com)  
-🌐 **Portfolio:** *Coming Soon...*  
+📫 **Reach Me At:** [calvinlevron2@gmail.com](mailto:calvinlevron2@gmail.com)   
 ⚡ **Fun Fact:** I debug faster than I make coffee ☕️ → 🐛  
-
 </div>
 
 ---
