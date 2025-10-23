@@ -10,16 +10,6 @@
 
 ---
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=500&lines=Hello%2C+I'm+Astro+calvin!;Game+Developer+%26+System+Programmer;Exploring+Tech+%26+Innovation;Building+the+future+one+line+at+a+time!" alt="Typing SVG" />
-</div>
-
-<!-- Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
-</div>
-
 ---
 
 ## 🧩 About Me
@@ -95,7 +85,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=radical&no-frame=true&margin-w=10&row=1"/>
 </div>
 
 ---
