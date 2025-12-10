@@ -114,29 +114,18 @@ Hi! I'm **Astrocalvin02** — Full Stack Developer passionate about MERN, Java, 
 </div>
 
 ---
-
-## 🌟 Featured / Pinned Projects
-
+<!-- 🐍 Watch my Contributions get Eaten! -->
+<br/>
 <div align="center">
-  <!-- Replace repo names with your actual repository names -->
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🚀 Project One</h3>
-        <a href="https://github.com/Astrocalvin02/your-repo-1" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astrocalvin02&repo=your-repo-1&theme=tokyonight&hide_border=true" alt="Project 1" />
-        </a>
-        <p align="center"><strong>Tech:</strong> React • Node.js • MongoDB</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">⚡ Project Two</h3>
-        <a href="https://github.com/Astrocalvin02/your-repo-2" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astrocalvin02&repo=your-repo-2&theme=tokyonight&hide_border=true" alt="Project 2" />
-        </a>
-        <p align="center"><strong>Tech:</strong> Java • Spring Boot • MySQL</p>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+         src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
   <br />
   <a href="https://github.com/Astrocalvin02?tab=repositories" target="_blank">
