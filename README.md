@@ -1,81 +1,30 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F54EA2,100:FF7676&height=120&section=header"/>
-
-<h1 align="center">🔥 Hey there 👋, I'm <strong>Astro Calvin F</strong> 🔥</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=F754EB&center=true&vCenter=true&width=900&lines=⚙️+Game+Developer;🧠+System+Programming+Enthusiast;🚀+Performance+Optimizer;🎮+Real-Time+Tech+Explorer"/>
-</p>
-
-<p align="center"><em>“Code is my canvas. Systems are my playground. Games are my universe.”</em></p>
+<!-- Profile Header -->
+<h1 align="center">🔥 Welcome to My GitHub — Astrocalvin02 🔥</h1>
+<h3 align="center">🚀 Passionate Developer | MERN | Java | DSA | Tech Explorer</h3>
 
 ---
 
-# 🔥 About Me — Powered by Code & Chaos
-
-<table align="center">
-<tr>
-<td>
-
-### 🔭 Currently Crafting  
-- ⚙️ Multi-threaded Game Server Simulator  
-- 🎮 Real-time Engine Tools  
-- 🧪 Memory + Performance Experiments  
-
-### 🌱 Fueled By Passion  
-- System Programming  
-- Game Architecture  
-- Low-Level Optimization  
-
-</td>
-<td>
-
-### 🎯 2025 Goals  
-- 🏆 Master Advanced Algorithms  
-- ⚡ Build Ultra-Fast Servers  
-- 🚀 Create Open-Source Tools  
-- 🔥 Publish a Game Dev Toolkit  
-
-### 💬 Ask Me About  
-- ✨ C++ Magic  
-- 🐍 Python Wizardry  
-- 🎮 Game Engine Internals  
-
-</td>
-</tr>
-</table>
+## 🚀 About Me  
+- 🔥 Full Stack Developer (MERN + Java)  
+- 🧠 Currently mastering DSA + System Design  
+- ☁ Exploring Cloud, DevOps & AI  
+- ⚡ Building projects every week to grow fast  
 
 ---
 
-# 🎮 Tech Arsenal — My Weapons of Choice
+## 🔥 Tech Stack
 
-<div align="center">
+### 💻 Programming
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 
-### ⚡ Game & Systems
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-
-### 🛠️ Frameworks & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-### 🖥️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-</div>
-
----
-
-# 🔥 Animated Fire Divider
-<p align="center">
-  <img src="https://i.gifer.com/origin/9c/9cfe7e2db7b2e614c743ffb391d4b266_w200.gif" width="250">
-</p>
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge)
 
 ---
 
@@ -83,12 +32,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrocalvin02&theme=radical&hide_border=true&background=0D1117" width="49%" />  
-<img src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrocalvin02&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true&langs_count=10" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true" width="60%"/>
 
 </div>
 
@@ -97,38 +47,36 @@
 # 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=radical&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=radical&no-frame=true&margin-w=10"/>
 </div>
 
 ---
 
-# 🌐 Contribution Heatmap
+# 🔥 Contribution Heatmap
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astrocalvin02&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astrocalvin02&theme=react-dark&hide_border=true"/>
 </div>
 
 ---
 
-# 🔥 Epic Banner (New Working GIF)
+# 🔥 Epic Banner (Fixed)
 
-<p align="center">
-  <img src="https://i.gifer.com/7ImN.gif" width="60%" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" width="600px"/>
+</div>
 
 ---
 
-# 📬 Connect With Me  
+## 📬 Connect With Me
+
 <div align="center">
 
-📧 **Email:**  
-📮 <strong>calvinlevron2@gmail.com</strong>
-
-✨ **Fun Fact:**  
-_I debug faster than I make coffee ☕ → 🐛_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://instagram.com)  
 
 </div>
 
 ---
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=120&section=footer"/>
+<h3 align="center">🔥 Keep Coding • Keep Growing • Keep Building 🔥</h3>
