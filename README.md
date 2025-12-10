@@ -106,15 +106,9 @@ Hi! I'm **Astrocalvin02** — Full Stack Developer passionate about MERN, Java, 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <!-- Fixed trophies: use username param and valid theme; ensure image loads by using the official service -->
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=tokyonight&no-frame=true&row=2&column=7" alt="Trophies" />
-</div>
 
 ---
-<!-- 🐍 Watch my Contributions get Eaten! -->
+## 🐍 Watch my Contributions get Eaten!
 <br/>
 <div align="center">
   <picture>
