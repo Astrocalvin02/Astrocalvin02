@@ -35,7 +35,7 @@ Hi! I'm **Astrocalvin02** — Full Stack Developer passionate about MERN, Java, 
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 | Goal | Status |
 |------|--------|
