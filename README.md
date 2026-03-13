@@ -1,79 +1,118 @@
 <div align="center">
 
-<!-- Header Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ASTROCALVIN02&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Builder&descAlignY=60&descSize=18&descColor=ffffff"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Astro%20Calvin&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Backend%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=17&descColor=a8dadc"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%2B+Java+Expert+%F0%9F%94%A5;DSA+%26+System+Design+Enthusiast+%F0%9F%A7%A0;Building+The+Future%2C+One+Commit+at+a+Time+%E2%9A%A1;500%2B+DSA+Problems+and+Counting+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A8DADC&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Astro+Calvin+%F0%9F%91%8B;CSE+Student+%40+Sri+Eshwar+College+%F0%9F%8E%93;Backend+Developer+%7C+Spring+Boot+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A0;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Open+to+Collaborate+%26+Contribute+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Badges Row -->
-<img src="https://komarev.com/ghpvc/?username=Astrocalvin02&label=Profile%20Views&color=ff6e96&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Astrocalvin02?label=Followers&style=for-the-badge&color=ff6e96" alt="followers"/>
-<img src="https://img.shields.io/badge/Focus-DSA%20%26%20System%20Design-brightgreen?style=for-the-badge&color=F85D7F" />
-<img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&color=F8D866" />
+<!-- Profile Badges -->
+<img src="https://komarev.com/ghpvc/?username=Astrocalvin02&label=Profile%20Views&color=1d3557&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Astrocalvin02?label=Followers&style=for-the-badge&color=457b9d" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-a8dadc?style=for-the-badge&color=1d3557" />
+<img src="https://img.shields.io/badge/College-Sri%20Eshwar-a8dadc?style=for-the-badge&color=457b9d" />
+<img src="https://img.shields.io/badge/University-Anna%20University-a8dadc?style=for-the-badge&color=1d3557" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- About Me Section with GIF -->
+<img align="right" alt="Backend Dev" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🔥 About Me
+## 🧑‍💻 About Me
 
-```javascript
-const astrocalvin = {
-  role: "Full Stack Developer",
-  code: ["JavaScript", "Java", "Python", "C++"],
-  currentFocus: "Mastering DSA & System Design",
-  technologies: {
-    frontEnd:  ["React", "HTML", "CSS", "Tailwind"],
-    backEnd:   ["Node.js", "Express", "MongoDB", "MySQL"],
-    devOps:    ["Docker", "Git", "Linux"],
-    learning:  ["Cloud Computing", "AI/ML", "DevOps"]
-  },
-  funFact: "I debug with console.log and I'm not ashamed 😅",
-  motto: "Keep Coding • Keep Growing • Keep Building 🚀"
-};
+```java
+public class AstroCalvin {
+
+    String name       = "Calvin F";
+    String college    = "Sri Eshwar College of Engineering";
+    String university = "Anna University";
+    String role       = "CSE Undergraduate";
+    String focus      = "Backend Development";
+
+    String[] languages  = {"Java", "Python", "C++"};
+    String[] backend    = {"Spring Boot", "REST APIs"};
+    String[] databases  = {"MySQL", "MongoDB"};
+    String[] tools      = {"Git", "Docker", "Postman"};
+
+    String currently    = "Mastering DSA + Building Scalable Systems";
+    String lookingFor   = "Internships, Open Source, Hackathons";
+    String email        = "calvinlevron2@gmail.com";
+
+    String motto() {
+        return "Build, Break, Learn, Repeat 🔁";
+    }
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Learning Roadmap (2024–2026)
 
 <div align="center">
 
-| Goal | Status | Progress |
-|------|--------|----------|
-| 🎯 Master 500+ DSA Problems | 🔥 In Progress | ![](https://progress-bar.dev/45/?width=200&color=F85D7F) |
-| 🚀 Build 10 Full-Stack Projects | 💪 Active | ![](https://progress-bar.dev/30/?width=200&color=F8D866) |
-| 🌟 Contribute to Open Source | ⚡ Starting | ![](https://progress-bar.dev/10/?width=200&color=58D68D) |
-| ☁️ Learn Cloud & DevOps | 📚 Learning | ![](https://progress-bar.dev/20/?width=200&color=5DADE2) |
+| Goal | Focus Area | Status |
+|------|-----------|--------|
+| 🧠 Master DSA | Arrays, Trees, Graphs, DP | 🔥 Active |
+| ⚙️ Scalable Backend | Spring Boot + Microservices | 💪 In Progress |
+| ☁️ Cloud Computing | AWS / Azure Basics | 📚 Learning |
+| 🌐 Open Source | Contributions & PRs | ⚡ Starting |
+| 🏆 Hackathons | National & College Level | 🎯 Upcoming |
 
 </div>
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Tech Stack
 
 <div align="center">
 
-### 🔤 Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp&theme=dark" />
+### 🔤 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" />
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" />
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark" />
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎓 **Student Management System** | Console-based Java app for managing student records with Java Collections & menu-driven interaction | `Java` `OOP` `Collections` |
+| 💰 **Expense Tracker Application** | Daily expense recorder with full CRUD operations and database integration | `Java` `MySQL` `JDBC` |
+| 🏢 **Placement Management System** | Full backend system with RESTful APIs for student placements & recruiter management | `Spring Boot` `REST API` `MySQL` |
+
+</div>
+
+---
+
+## 🧠 Core CS Concepts
+
+<div align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1d3557?style=for-the-badge&logo=leetcode&logoColor=a8dadc)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-457b9d?style=for-the-badge&logo=java&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-1d3557?style=for-the-badge&logo=mysql&logoColor=a8dadc)
+![OS](https://img.shields.io/badge/Operating%20Systems-457b9d?style=for-the-badge&logo=linux&logoColor=white)
+![CN](https://img.shields.io/badge/Computer%20Networks-1d3557?style=for-the-badge&logo=cisco&logoColor=a8dadc)
 
 </div>
 
@@ -83,12 +122,12 @@ const astrocalvin = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=fff&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astrocalvin02&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=fff" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a8dadc&icon_color=457b9d&text_color=fff&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astrocalvin02&theme=tokyonight&hide_border=true&background=0D1117&stroke=a8dadc&ring=457b9d&fire=a8dadc&currStreakLabel=fff" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=fff&langs_count=8" alt="Top Languages"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrocalvin02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a8dadc&text_color=fff&langs_count=8" />
 
 </div>
 
@@ -97,7 +136,7 @@ const astrocalvin = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12"/>
 </div>
 
 ---
@@ -105,7 +144,7 @@ const astrocalvin = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astrocalvin02&custom_title=Astrocalvin02%27s%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true&area=true&area_color=F85D7F" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astrocalvin02&custom_title=Astro%20Calvin%27s%20Contribution%20Graph&bg_color=0D1117&color=a8dadc&line=457b9d&point=FFFFFF&hide_border=true&area=true&area_color=457b9d"/>
 </div>
 
 ---
@@ -116,27 +155,16 @@ const astrocalvin = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Astrocalvin02&repo=your-repo-1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Astrocalvin02)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Astrocalvin02&repo=your-repo-2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Astrocalvin02)
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
@@ -145,11 +173,9 @@ const astrocalvin = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Astro%20Calvin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astro-calvin-f-1b73b1218)
+[![GitHub](https://img.shields.io/badge/GitHub-Astrocalvin02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astrocalvin02)
+[![Gmail](https://img.shields.io/badge/Gmail-calvinlevron2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calvinlevron2@gmail.com)
 
 </div>
 
@@ -157,41 +183,12 @@ const astrocalvin = {
 
 <div align="center">
 
-## 💭 Quote of the Day
-
-> *"The only way to do great work is to love what you do."* — **Steve Jobs**
-
-<br/>
-
-```javascript
-while(alive) {
-  eat();
-  sleep();
-  code();
-  repeat();
-}
-```
+<!-- Animated Footer Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=457b9d&center=true&vCenter=true&width=700&lines=Always+open+to+learning%2C+collaboration+%26+meaningful+projects+%F0%9F%A4%9D;Currently+grinding+DSA+%26+building+cool+backend+stuff+%E2%9A%99%EF%B8%8F;Let%27s+connect+and+build+something+awesome+together!+%F0%9F%9A%80" />
 
 <br/>
-
-## 🔥 Support My Work
-
-If you like what I do, maybe consider buying me a coffee ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-handle)
-
-</div>
-
----
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<div align="center">
-
-### 🌟 Thank you for visiting! 🌟
-#### ⭐ Star my repos if you like them! ⭐
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let%27s+connect+and+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer"/>
 
 </div>
