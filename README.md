@@ -29,9 +29,6 @@
 ```java
 public class AstroCalvin {
 
-    String name       = "Calvin F";
-    String college    = "Sri Eshwar College of Engineering";
-    String university = "Anna University";
     String role       = "CSE Undergraduate";
     String focus      = "Backend Development";
 
