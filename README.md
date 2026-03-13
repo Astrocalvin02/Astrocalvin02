@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A8DADC&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Astro+Calvin+%F0%9F%91%8B;CSE+Student+%40+Sri+Eshwar+College+%F0%9F%8E%93;Backend+Developer+%7C+Spring+Boot+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A0;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Open+to+Collaborate+%26+Contribute+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A8DADC&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Astro+Calvin+%F0%9F%91%8B;Backend+Developer+%7C+Spring+Boot+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A0;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Open+to+Collaborate+%26+Contribute+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,8 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=Astrocalvin02&label=Profile%20Views&color=1d3557&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Astrocalvin02?label=Followers&style=for-the-badge&color=457b9d" />
 <img src="https://img.shields.io/badge/Focus-Backend%20Development-a8dadc?style=for-the-badge&color=1d3557" />
-<img src="https://img.shields.io/badge/College-Sri%20Eshwar-a8dadc?style=for-the-badge&color=457b9d" />
-<img src="https://img.shields.io/badge/University-Anna%20University-a8dadc?style=for-the-badge&color=1d3557" />
+
 
 </div>
 
