@@ -23,49 +23,6 @@
 <!-- About Me Section with GIF -->
 <img align="right" alt="Backend Dev" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🧑‍💻 About Me
-
-```java
-public class AstroCalvin {
-
-    String role       = "CSE Undergraduate";
-    String focus      = "Backend Development";
-
-    String[] languages  = {"Java", "Python", "C++"};
-    String[] backend    = {"Spring Boot", "REST APIs"};
-    String[] databases  = {"MySQL", "MongoDB"};
-    String[] tools      = {"Git", "Docker", "Postman"};
-
-    String currently    = "Mastering DSA + Building Scalable Systems";
-    String lookingFor   = "Internships, Open Source, Hackathons";
-    String email        = "calvinlevron2@gmail.com";
-
-    String motto() {
-        return "Build, Break, Learn, Repeat 🔁";
-    }
-}
-```
-
-<br clear="right"/>
-
----
-
-## 🎯 Learning Roadmap (2024–2026)
-
-<div align="center">
-
-| Goal | Focus Area | Status |
-|------|-----------|--------|
-| 🧠 Master DSA | Arrays, Trees, Graphs, DP | 🔥 Active |
-| ⚙️ Scalable Backend | Spring Boot + Microservices | 💪 In Progress |
-| ☁️ Cloud Computing | AWS / Azure Basics | 📚 Learning |
-| 🌐 Open Source | Contributions & PRs | ⚡ Starting |
-| 🏆 Hackathons | National & College Level | 🎯 Upcoming |
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -81,20 +38,6 @@ public class AstroCalvin {
 
 ### 🛠️ Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎓 **Student Management System** | Console-based Java app for managing student records with Java Collections & menu-driven interaction | `Java` `OOP` `Collections` |
-| 💰 **Expense Tracker Application** | Daily expense recorder with full CRUD operations and database integration | `Java` `MySQL` `JDBC` |
-| 🏢 **Placement Management System** | Full backend system with RESTful APIs for student placements & recruiter management | `Spring Boot` `REST API` `MySQL` |
 
 </div>
 
@@ -161,18 +104,6 @@ public class AstroCalvin {
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Astro%20Calvin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astro-calvin-f-1b73b1218)
-[![GitHub](https://img.shields.io/badge/GitHub-Astrocalvin02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astrocalvin02)
-[![Gmail](https://img.shields.io/badge/Gmail-calvinlevron2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calvinlevron2@gmail.com)
-
 </div>
 
 ---
