@@ -10,11 +10,6 @@
 
 <br/>
 
-<!-- Profile Badges -->
-<img src="https://komarev.com/ghpvc/?username=Astrocalvin02&label=Profile%20Views&color=1d3557&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Astrocalvin02?label=Followers&style=for-the-badge&color=457b9d" />
-<img src="https://img.shields.io/badge/Focus-Backend%20Development-a8dadc?style=for-the-badge&color=1d3557" />
-
 
 </div>
 
