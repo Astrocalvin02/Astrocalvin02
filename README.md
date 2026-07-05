@@ -56,7 +56,7 @@
 
 <br/>
 
-## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25" /> 💻 Tech Stack <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25" /></div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25" /> Tech Stack <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25" /></div>
 
 <table border="0" align="center" width="100%">
 <tr>
@@ -110,7 +110,7 @@
 
 <br/>
 
-## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25" /> 🧠 Core CS Concepts <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25" /></div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25" /> Core CS Concepts <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
 
@@ -123,7 +123,7 @@
 
 <br/>
 
-## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" /> 📊 GitHub Statistics <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" /></div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" /> GitHub Statistics <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a8dadc&icon_color=457b9d&text_color=ffffff&count_private=true" />
@@ -136,7 +136,7 @@
 
 <br/>
 
-## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25" /> 🏆 GitHub Trophies <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25" /></div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25" /> GitHub Trophies <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=15" />
@@ -144,7 +144,7 @@
 
 <br/>
 
-## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25" /> 📈 Contribution Graph <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25" /></div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25" /> Contribution Graph <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astrocalvin02&custom_title=Astro%20Calvin's%20Contribution%20Graph&bg_color=0D1117&color=a8dadc&line=457b9d&point=FFFFFF&hide_border=true&area=true&area_color=457b9d" />
@@ -152,7 +152,7 @@
 
 <br/>
 
-## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25" /> 🐍 Contribution Snake <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25" /></div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25" /> Contribution Snake <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
   <picture>
@@ -183,7 +183,7 @@
 <br/>
 
 <!-- CONNECT SECTION -->
-## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" /> 📬 Connect with Me <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" /></div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" /> Connect with Me <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" /></div>
 
 <div align="center">
 
@@ -211,4 +211,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="bottom border" />
 </div>
-
