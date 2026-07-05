@@ -21,19 +21,10 @@
 
 <br/>
 
-<!-- BADGES ROW -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Astrocalvin02&style=for-the-badge&color=457b9d&label=PROFILE+VIEWS" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Astrocalvin02?style=for-the-badge&color=a8dadc&labelColor=1d3557&label=FOLLOWERS" alt="followers" />
-</div>
-
-<br/>
-
 <!-- ABOUT ME -->
 <div align="center">
 
-🎓 &nbsp;First-year **CSE student** &nbsp;|&nbsp; ☕ &nbsp;**Java + Spring Boot** backend dev
+🎓 &nbsp;Third-year **CSE student** &nbsp;|&nbsp; ☕ &nbsp;**Java + Spring Boot** backend dev
 
 🧠 &nbsp;Daily **DSA** grind on LeetCode &nbsp;|&nbsp; 🏗️ &nbsp;Obsessed with **scalable system design**
 
@@ -65,7 +56,7 @@
 
 <br/>
 
-## <div align="center">💻 Tech Stack</div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25" /> 💻 Tech Stack <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25" /></div>
 
 <table border="0" align="center" width="100%">
 <tr>
@@ -73,7 +64,7 @@
 
 **🔤 Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c" height="40" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" height="40" />
 
 &nbsp;
 
@@ -85,31 +76,28 @@
 
 **🌐 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="40" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" height="40" />
 
 &nbsp;
 
-**🗄️ Databases & Cache**
+**🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" height="40" />
-
-&nbsp;
-
-**🛠️ DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
 
 &nbsp;
 
-**🔧 Dev Tools**
+**🛠️ Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=postman,maven,idea,eclipse,vscode" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" height="40" />
 
 &nbsp;
 
-**🔐 Other**
+**🤗 AI / Other**
 
-<img src="https://skillicons.dev/icons?i=jwt" height="40" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="28" />
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -122,7 +110,7 @@
 
 <br/>
 
-## <div align="center">🧠 Core CS Concepts</div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25" /> 🧠 Core CS Concepts <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
 
@@ -130,41 +118,12 @@
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-457b9d?style=for-the-badge&logo=java&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-1d3557?style=for-the-badge&logo=mysql&logoColor=a8dadc)
 ![OS](https://img.shields.io/badge/Operating%20Systems-457b9d?style=for-the-badge&logo=linux&logoColor=white)
-![CN](https://img.shields.io/badge/Computer%20Networks-1d3557?style=for-the-badge&logo=cisco&logoColor=a8dadc)
 
 </div>
 
 <br/>
 
-<!-- PARROT LINE DIVIDER -->
-<div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25" />
-</div>
-
-<br/>
-
-## <div align="center">📊 GitHub Statistics</div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" /> 📊 GitHub Statistics <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astrocalvin02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a8dadc&icon_color=457b9d&text_color=ffffff&count_private=true" />
@@ -177,15 +136,15 @@
 
 <br/>
 
-## <div align="center">🏆 GitHub Trophies</div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25" /> 🏆 GitHub Trophies <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Astrocalvin02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=15" />
 </div>
 
 <br/>
 
-## <div align="center">📈 Contribution Graph</div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25" /> 📈 Contribution Graph <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astrocalvin02&custom_title=Astro%20Calvin's%20Contribution%20Graph&bg_color=0D1117&color=a8dadc&line=457b9d&point=FFFFFF&hide_border=true&area=true&area_color=457b9d" />
@@ -193,13 +152,13 @@
 
 <br/>
 
-## <div align="center">🐍 Contribution Snake</div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25" /> 🐍 Contribution Snake <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25" /></div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astrocalvin02/Astrocalvin02/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Astrocalvin02/Astrocalvin02/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Astrocalvin02/Astrocalvin02/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Astrocalvin02/Astrocalvin02/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -224,19 +183,19 @@
 <br/>
 
 <!-- CONNECT SECTION -->
-## <div align="center">📬 Connect with Me</div>
+## <div align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" /> 📬 Connect with Me <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" /></div>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+<a href="https://www.linkedin.com/in/astro-calvin-f-1b73b1218" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="45" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://wa.me/your-whatsapp-number" target="_blank">
+<a href="https://wa.me/918667603385" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45" alt="WhatsApp" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:calvinlevron2@gmail.com">
   <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="45" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
@@ -248,7 +207,7 @@
 
 <br/>
 
-<!-- BOTTOM BORDERS -->
+<!-- BOTTOM BORDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="bottom border" />
 </div>
