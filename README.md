@@ -1,6 +1,6 @@
 <!-- TOP BORDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" alt="top border" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%" alt="top border" />
 </div>
 
 <!-- ARCADE BANNER -->
@@ -26,8 +26,6 @@
   <img src="https://komarev.com/ghpvc/?username=Astrocalvin02&style=for-the-badge&color=457b9d&label=PROFILE+VIEWS" alt="profile views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/Astrocalvin02?style=for-the-badge&color=a8dadc&labelColor=1d3557&label=FOLLOWERS" alt="followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Astrocalvin02?style=for-the-badge&color=a8dadc&labelColor=1d3557&label=STARS" alt="stars" />
 </div>
 
 <br/>
@@ -35,25 +33,24 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║              🚀  About Astro Calvin                      ║
-╠══════════════════════════════════════════════════════════╣
-║  🎓  First-year CSE student                              ║
-║  ☕  Backend-focused: Java + Spring Boot                 ║
-║  🧠  Daily DSA practice on LeetCode                      ║
-║  🏗️  Passionate about scalable system design             ║
-║  🎯  Goal: FAANG / Top-tier Backend Engineer             ║
-╚══════════════════════════════════════════════════════════╝
-```
+🎓 &nbsp;First-year **CSE student** &nbsp;|&nbsp; ☕ &nbsp;**Java + Spring Boot** backend dev
+
+🧠 &nbsp;Daily **DSA** grind on LeetCode &nbsp;|&nbsp; 🏗️ &nbsp;Obsessed with **scalable system design**
+
+🎯 &nbsp;Goal: **FAANG** / Top-tier Backend Engineer
 
 </div>
 
 <br/>
 
+<!-- MARIO HEADER DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" height="60" alt="mario divider" />
+</div>
+
 <!-- SKILLS TOP DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80%" alt="divider" />
 </div>
 
 ## <div align="center">💻 Tech Stack</div>
@@ -113,7 +110,7 @@
 
 <!-- SKILLS BOTTOM DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80%" alt="divider" />
 </div>
 
 <br/>
@@ -164,7 +161,11 @@
 ## <div align="center">🐍 Contribution Snake</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Astrocalvin02/Astrocalvin02/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astrocalvin02/Astrocalvin02/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Astrocalvin02/Astrocalvin02/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Astrocalvin02/Astrocalvin02/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  </picture>
 </div>
 
 <br/>
@@ -183,24 +184,24 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://wa.me/your-whatsapp-number" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="22" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="22" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Astrocalvin02" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22" />
 </a>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="50" alt="git animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="120" height="30" alt="git animation" />
 
 </div>
 
@@ -208,8 +209,8 @@
 
 <!-- BOTTOM BORDERS -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="bottom border 1" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80%" alt="bottom border 1" />
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100%" alt="bottom border 2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" alt="bottom border 2" />
 </div>
